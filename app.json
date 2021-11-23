@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "feria-e",
+    "slug": "feria-e",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "feria-e"
+}
